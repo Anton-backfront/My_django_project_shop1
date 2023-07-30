@@ -1,0 +1,28 @@
+body {
+    background: url("../img/MainShop.jpg") no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding-top: 56px;
+}
+
+#start-purchase-btn {
+    background-color: #543016;
+    border-color: #23364e;
+    color: white;
+}
+
+#start-purchase-link {
+    text-decoration: none;
+    color: white;
+}
+
+.text-white-stroke {
+    font-size: 16px;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+.custom-bg-color {
+    background-color: #543016;
+}

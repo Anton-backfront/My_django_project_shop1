@@ -1,0 +1,62 @@
+[
+{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$P0mS66lzlH3jK2fGfiGv53$y/Wq8G1fUQdJgcOn/EdGW70dZm5bcwgrBQLoGCYA7zc=",
+        "last_login": "2023-07-05T12:43:45.771Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-06-20T13:27:37.084Z",
+        "image": "",
+        "is_verified_email": false,
+        "email": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Kh3JD2l65UnHUHPG3bPOJ2$2tG2wTbDVx2tbsGGeskWbuzAKWAbDXcaNhzHnAOxbH8=",
+        "last_login": "2023-07-05T13:33:06.540Z",
+        "is_superuser": false,
+        "username": "Anton",
+        "first_name": "Anton",
+        "last_name": "Ant",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-07-05T12:39:01.736Z",
+        "image": "users_images/Monkey_PC.png",
+        "is_verified_email": true,
+        "email": "Han.T@mail.ru",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Riv19x7tKKeVqUP7ReEgYj$Hylpal44n5u6SmtA9EmosgNPxnb2ERFP5/JzA0zFsLw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Ant",
+        "first_name": "Ant",
+        "last_name": "Ant",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-07-05T12:43:10.900Z",
+        "image": "",
+        "is_verified_email": true,
+        "email": "anthonlc@yandex.ru",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

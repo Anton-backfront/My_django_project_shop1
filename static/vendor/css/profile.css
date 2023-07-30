@@ -1,0 +1,16 @@
+body {
+    padding-top: 56px;
+}
+
+.product-link {
+
+    color: #5c3508;
+    text-decoration: none;
+}
+
+.product-link:hover {
+    text-decoration: none;
+}
+.custom-bg-color {
+    background-color: #543016;
+}

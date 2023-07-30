@@ -1,0 +1,43 @@
+body {
+    padding-top: 56px;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: black !important;
+    background-color: #84aa84;
+    border-color: #007bff;
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: black !important;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.product-link {
+    color: #5c3508;
+    text-decoration: none;
+}
+
+.product-link:hover {
+    text-decoration: none;
+}
+
+.list-group-item {
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #5c3508;
+    text-decoration: none;
+}
+
+.list-group-item:hover {
+    text-decoration: none;
+}
+.custom-bg-color {
+    background-color: #543016;
+}
